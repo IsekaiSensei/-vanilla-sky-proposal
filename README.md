@@ -1,23 +1,45 @@
 # Vanilla Sky Proposal
 
-Vanilla Sky proposal, planning, and development notes.
+Public home for the Vanilla Sky proposal, planning notes, and related development materials.
+
+**License:** [MIT](LICENSE)  
+**Authority:** Ryan directs priorities and final design decisions.  
+**Working instructions:** [AGENTS.md](AGENTS.md)
 
 ## Start here
 
-**CHECK GITHUB FIRST:** read [AGENTS.md](AGENTS.md), then the current files relevant to the task.
+**CHECK GITHUB FIRST.** Read [AGENTS.md](AGENTS.md), then the current files relevant to your task. Report the actual files or revisions read.
 
-Ryan directs this project. We retain our existing system: clear instructions, current-source checks, proposal/canon separation, and evidence for actual delivery.
+We keep clear instructions, current-source checks, proposal/canon separation, and evidence for actual delivery.
 
-## Current state
+## Current state (as of 2026-10-12)
 
-- Public repository created by Ryan on October 12, 2026.
-- Working instructions added.
-- The actual proposal has not yet been imported.
-- Muse has not yet been prompted about this repository, according to Ryan.
-- No finished assets, implementation, or recipient receipt are claimed.
+| Item | Status |
+|------|--------|
+| Public repository | Created |
+| Working instructions (`AGENTS.md`) | Present |
+| `PROPOSAL.md` (authorized source text) | Not yet on `main` |
+| Draft PR #1 (tutorial files) | Open draft — no merge without Ryan |
+| Finished assets / implementation / receipts | None claimed |
+
+Status lines above are a snapshot. Prefer this table (or a future `STATE.md`) over narrative that will go stale.
 
 ## Next step
 
-After Ryan relays the repository link, place the actual publicly authorized proposal in `PROPOSAL.md`, with its source, date, and status. Preserve the source wording and label any additions. If it is unavailable, report the missing source rather than substituting another project.
+When Ryan authorizes it, place the actual public proposal in `PROPOSAL.md` with source, date, and status. Preserve source wording; label any editorial additions. If the source is unavailable, report it missing — do not substitute another project.
 
-This is the public home for this proposal. Unrelated private project material stays separate.
+Draft PR #1 (`muse/vanilla-sky-tutorial-20261012`) holds tutorial drafts (TUTORIAL.md, FIRST_TIME_GITHUB.md, PUBLISHING.md). Review only; merge only with explicit authorization.
+
+## Boundaries
+
+- This repository is **public**. Add only material Ryan authorized for public sharing.
+- Unrelated private project content stays in its own repos.
+- Posted ≠ delivered ≠ read ≠ tested ≠ approved. Label incomplete work PARTIAL or BLOCKED.
+- Other agents do not automatically receive updates.
+
+## For AI assistants
+
+- Reuse existing files; do not force-push.
+- Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
+- Do not invent a proposal, attachment, read receipt, completed build, or publication.
+- For any delivery: report the actual file/link, result, evidence, remaining gap, and next action.
