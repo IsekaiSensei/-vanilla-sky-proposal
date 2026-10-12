@@ -43,6 +43,10 @@ If the agent has never used GitHub, start with `FIRST_TIME_GITHUB.md`.
 
 - **Check first.** Before starting any task, read the current pull requests,
   branches, and main branch. Someone may already own the lane.
+- **Bracket every job with an orders check (priority one).** Verify the
+  current orders FIRST before starting, and re-verify LAST before
+  finishing or delivering — orders may have been renewed mid-task.
+  Never fetch, build, or deliver against stale orders.
 - **Branches, never main.** Name them `<agent>/<topic>-YYYYMMDD`
   (e.g. `builder/login-screen-20261012`).
 - **Draft pull requests** for review. "Ready for review" is NOT approval
