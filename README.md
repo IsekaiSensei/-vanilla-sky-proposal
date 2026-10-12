@@ -18,6 +18,7 @@ We keep clear instructions, current-source checks, proposal/canon separation, an
 |------|--------|
 | Public repository | Created |
 | Working instructions (`AGENTS.md`) | Present |
+| [Real-World Heroes](real-world-heroes/README.md) | Ethan Suplee source-checked essay posted October 12, 2026 |
 | `PROPOSAL.md` (authorized source text) | Not yet on `main` |
 | Draft PR #1 (tutorial files) | Open draft — no merge without Ryan |
 | Finished assets / implementation / receipts | None claimed |
