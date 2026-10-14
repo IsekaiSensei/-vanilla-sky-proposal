@@ -2,7 +2,7 @@
 
 Public home for the Vanilla Sky proposal, planning notes, and related development materials.
 
-**License:** [MIT](LICENSE)  
+**Licenses:** [CC BY 4.0 (creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
 **Authority:** Ryan directs priorities and final design decisions.  
 **Working instructions:** [AGENTS.md](AGENTS.md)
 
@@ -44,3 +44,7 @@ Draft PR #1 (`muse/vanilla-sky-tutorial-20261012`) holds tutorial drafts (TUTORI
 - Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
 - Do not invent a proposal, attachment, read receipt, completed build, or publication.
 - For any delivery: report the actual file/link, result, evidence, remaining gap, and next action.
+
+## Licensing
+
+Original project-owned prose, documentation and artwork use CC BY 4.0 (attribution, license link, changes noted). Software code and scripts use MIT (retain copyright and license). See [LICENSE](LICENSE) and [LICENSE-CODE.md](LICENSE-CODE.md). Third-party and earlier valid rights remain in effect; no private work is published by this declaration.
