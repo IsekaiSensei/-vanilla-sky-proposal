@@ -1,50 +1,28 @@
-# Vanilla Sky Proposal
+# Vanilla Sky
 
-Public home for the Vanilla Sky proposal, planning notes, and related development materials.
+Basic starter: how to set up a GitHub repo so an agent can read orders and check them.
 
-**Licenses:** [CC BY 4.0 (creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
-**Authority:** Ryan directs priorities and final design decisions.  
-**Working instructions:** [AGENTS.md](AGENTS.md)
+No advanced structure. No prior-conversation memory required.
 
 ## Start here
 
-**CHECK GITHUB FIRST.** Read [AGENTS.md](AGENTS.md), then the current files relevant to your task. Report the actual files or revisions read.
+1. Owner creates the repo and grants the agent access (Settings → Collaborators → Write, or install the agent's GitHub App).
+2. Agent clones the repo and reads `ORDERS.md`.
+3. Before any work: read ORDERS.md first.
+4. After any work: re-read ORDERS.md last before finishing.
+5. Never merge without the owner's explicit yes.
 
-We keep clear instructions, current-source checks, proposal/canon separation, and evidence for actual delivery.
+## Files
 
-## Current state (as of 2026-10-12)
+- `ORDERS.md` — current orders. Read first and last.
+- `README.md` — this file.
 
-| Item | Status |
-|------|--------|
-| Public repository | Created |
-| Working instructions (`AGENTS.md`) | Present |
-| [Real-World Heroes](real-world-heroes/README.md) | Ethan Suplee source-checked essay posted October 12, 2026 |
-| `PROPOSAL.md` (authorized source text) | Not yet on `main` |
-| Draft PR #1 (tutorial files) | Open draft — no merge without Ryan |
-| Finished assets / implementation / receipts | None claimed |
+## Basic check
 
-Status lines above are a snapshot. Prefer this table (or a future `STATE.md`) over narrative that will go stale.
+Agent reports:
+- Repo URL read
+- ORDERS.md content confirmed
+- Whether access is read-only or write
+- Next step or blocker
 
-## Next step
-
-When Ryan authorizes it, place the actual public proposal in `PROPOSAL.md` with source, date, and status. Preserve source wording; label any editorial additions. If the source is unavailable, report it missing — do not substitute another project.
-
-Draft PR #1 (`muse/vanilla-sky-tutorial-20261012`) holds tutorial drafts (TUTORIAL.md, FIRST_TIME_GITHUB.md, PUBLISHING.md). Review only; merge only with explicit authorization.
-
-## Boundaries
-
-- This repository is **public**. Add only material Ryan authorized for public sharing.
-- Unrelated private project content stays in its own repos.
-- Posted ≠ delivered ≠ read ≠ tested ≠ approved. Label incomplete work PARTIAL or BLOCKED.
-- Other agents do not automatically receive updates.
-
-## For AI assistants
-
-- Reuse existing files; do not force-push.
-- Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
-- Do not invent a proposal, attachment, read receipt, completed build, or publication.
-- For any delivery: report the actual file/link, result, evidence, remaining gap, and next action.
-
-## Licensing
-
-Original project-owned prose, documentation and artwork use CC BY 4.0 (attribution, license link, changes noted). Software code and scripts use MIT (retain copyright and license). See [LICENSE](LICENSE) and [LICENSE-CODE.md](LICENSE-CODE.md). Third-party and earlier valid rights remain in effect; no private work is published by this declaration.
+Nothing else is required to begin.
