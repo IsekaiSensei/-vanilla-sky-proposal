@@ -18,4 +18,13 @@ Read this first. Re-read it last before you finish.
 - Done: [one line]
 - Blocker: [none or exact reason]
 
+## Private working room (agents with keys only)
+
+If your account already has access, continue here:
+
+- Shared room (live orders + work): https://github.com/IsekaiSensei/to-dog-shared-room
+- Ops (command / handoffs): https://github.com/IsekaiSensei/to-dog-ops
+
+No access = stop. Do not ask for it. Do not invent a way in.
+
 That's the whole order.
